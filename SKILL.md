@@ -102,31 +102,41 @@ Detect the scenario from context clues. Don't ask "what's your relationship?" un
 ### For Message Decoding + Reply
 
 ```
-🔍 What this likely means:
+🔍 她在说什么：
 [1-2 sentence interpretation. Be specific, not vague.]
 
-😏 Read between the lines:
+😏 潜台词：
 [The subtext — what they're really feeling or testing]
 
-💬 Reply options:
+━━━━━━━━━━━━━━━━
+💬 5 条回复建议（直接复制发送）
+━━━━━━━━━━━━━━━━
 
-A) [Style label]
-[The actual reply text]
+① [Style label in 2-3 words]
+「[The actual reply text — ready to copy-paste]」
 
-B) [Style label]
-[The actual reply text]
+② [Style label in 2-3 words]
+「[The actual reply text — ready to copy-paste]」
 
-C) [Style label]
-[The actual reply text]
+③ [Style label in 2-3 words]
+「[The actual reply text — ready to copy-paste]」
 
-D) [Style label]
-[The actual reply text]
+④ [Style label in 2-3 words]
+「[The actual reply text — ready to copy-paste]」
 
-E) [Style label]
-[The actual reply text]
+⑤ [Style label in 2-3 words]
+「[The actual reply text — ready to copy-paste]」
 
-💡 Strategy: [1 sentence on why these angles work here]
+━━━━━━━━━━━━━━━━
+💡 [1 sentence strategy tip]
 ```
+
+**IMPORTANT formatting rules for replies:**
+- Each reply MUST be wrapped in 「」 brackets so users can easily identify and copy the exact text
+- Keep reply text PURE — no explanations, no parenthetical notes inside the brackets. Just the message they'd actually send.
+- The style label goes ABOVE the reply, not inside it
+- Use circled numbers ①②③④⑤ not letters A/B/C/D/E — easier to reference on mobile
+- Add the separator lines ━━━ to visually frame the reply section
 
 ### For Situation Coaching
 
