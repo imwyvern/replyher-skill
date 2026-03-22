@@ -18,7 +18,7 @@ git push
 
 # 2. Publish to ClawHub
 echo "🚀 Publishing to ClawHub..."
-npx clawhub publish "$DIR" --version "$VERSION" --changelog "$CHANGELOG"
+npx clawhub publish "$DIR" --slug replyher --version "$VERSION" --changelog "$CHANGELOG"
 
 echo ""
 echo "✅ Done! Published v$VERSION to GitHub + ClawHub"
