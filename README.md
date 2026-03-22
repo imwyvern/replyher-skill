@@ -6,7 +6,7 @@ An [OpenClaw](https://github.com/openclaw/openclaw) Skill that helps you underst
 ## Features
 
 - **🔍 Message Decoding** — Paste a message you received, get 2 likely interpretations with subtext analysis
-- **💬 Smart Replies** — Get 2 strategically different reply options tailored to your situation
+- **💬 Smart Replies** — Get 5 strategically different reply options tailored to your situation
 - **🎯 Tactical Coaching** — Describe your situation, get actionable advice (not therapy-speak)
 - **📊 Conversation Analysis** — Paste a chat thread, get a full dynamic breakdown
 
@@ -46,7 +46,7 @@ For deeper features, visit [replyher.com](https://replyher.com):
 
 - 🧠 Relationship memory — AI remembers your communication patterns
 - 📋 Full chat diagnosis reports — 10-module analysis
-- 💬 5-style reply generation with stage-specific strategies
+- 💬 Stage-specific reply strategies with relationship context
 - 🔮 MBTI personality inference
 - 📸 Screenshot recognition
 - 🎯 Multi-turn coaching sessions
@@ -75,7 +75,7 @@ Please open an issue first to discuss significant changes.
 
 **核心功能：**
 - 消息解读 — 分析对方话里的潜台词，给出 2 种可能含义
-- 智能回复 — 2 种不同风格的回复方案
+- 智能回复 — 5 种不同风格的回复方案
 - 情景指导 — 针对具体情况给出可执行建议
 - 对话分析 — 粘贴聊天记录，分析关系动态和走向
 
