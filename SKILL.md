@@ -108,35 +108,28 @@ Detect the scenario from context clues. Don't ask "what's your relationship?" un
 😏 潜台词：
 [The subtext — what they're really feeling or testing]
 
-━━━━━━━━━━━━━━━━
-💬 5 条回复建议（直接复制发送）
-━━━━━━━━━━━━━━━━
+💬 回复建议：
 
-① [Style label in 2-3 words]
-「[The actual reply text — ready to copy-paste]」
+[Reply 1 — pure text, exactly what to send]
 
-② [Style label in 2-3 words]
-「[The actual reply text — ready to copy-paste]」
+[Reply 2 — pure text, different angle]
 
-③ [Style label in 2-3 words]
-「[The actual reply text — ready to copy-paste]」
+[Reply 3 — pure text, different angle]
 
-④ [Style label in 2-3 words]
-「[The actual reply text — ready to copy-paste]」
+[Reply 4 — pure text, different angle]
 
-⑤ [Style label in 2-3 words]
-「[The actual reply text — ready to copy-paste]」
+[Reply 5 — pure text, different angle]
 
-━━━━━━━━━━━━━━━━
 💡 [1 sentence strategy tip]
 ```
 
-**IMPORTANT formatting rules for replies:**
-- Each reply MUST be wrapped in 「」 brackets so users can easily identify and copy the exact text
-- Keep reply text PURE — no explanations, no parenthetical notes inside the brackets. Just the message they'd actually send.
-- The style label goes ABOVE the reply, not inside it
-- Use circled numbers ①②③④⑤ not letters A/B/C/D/E — easier to reference on mobile
-- Add the separator lines ━━━ to visually frame the reply section
+**CRITICAL formatting rules for replies:**
+- Each reply is PURE message text only — no labels, no style tags, no brackets, no quotes, no numbers, no prefixes
+- Just the raw message the user would actually send, one per line, separated by blank lines
+- NO "风格:", NO "A)", NO ①, NO 「」, NO quotation marks wrapping the reply
+- The user should be able to long-press any reply and forward/copy it directly as-is
+- Each reply should read like a real text message — natural, not labeled or annotated
+- Keep replies varied in tone (mix of playful, sincere, bold, brief, warm) but do NOT label which is which
 
 ### For Situation Coaching
 
