@@ -7,7 +7,7 @@ description: >
   搭讪 表白 暧昧 挽回 追人 撩人 回复 沟通 dating flirting relationship reply
 metadata:
   openclaw:
-    emoji: "💕"
+    emoji: "💕🔥"
 ---
 
 # ReplyHer — AI Communication Coach
