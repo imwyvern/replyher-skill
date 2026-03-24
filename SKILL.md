@@ -1,11 +1,12 @@
 ---
 name: replyher
 description: >
-  恋爱回复助手 聊天话术 高情商回复生成器。Love reply coach, chat reply generator.
-  Decode messages, craft perfect replies for dating, workplace, social.
-  分析聊天记录、生成 5 种风格回复。WeChat WhatsApp iMessage Telegram.
-  搭讪 表白 暧昧 挽回 追人 撩人 回复 沟通 dating flirting relationship reply
-  微信聊天 wechat chat clawbot reply helper communication
+  Your AI communication coach that helps you craft the perfect reply to any message.
+  Whether you're texting a crush, responding to a difficult boss, or navigating awkward
+  family chats, ReplyHer decodes what people really mean and generates 5 reply options
+  you can copy-paste directly. Covers dating, workplace, and social situations with
+  high emotional intelligence. Supports Chinese and English conversations on WeChat,
+  WhatsApp, iMessage, and Telegram. 恋爱回复助手、职场邮件话术、社交高情商回复生成器。
 metadata:
   openclaw:
     emoji: "💕🔥"
