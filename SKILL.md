@@ -1,12 +1,10 @@
 ---
 name: replyher
 description: >
-  Your AI communication coach that helps you craft the perfect reply to any message.
-  Whether you're texting a crush, responding to a difficult boss, or navigating awkward
-  family chats, ReplyHer decodes what people really mean and generates 5 reply options
-  you can copy-paste directly. Covers dating, workplace, and social situations with
-  high emotional intelligence. Supports Chinese and English conversations on WeChat,
-  WhatsApp, iMessage, and Telegram. 恋爱回复助手、职场邮件话术、社交高情商回复生成器。
+  ReplyHer is an AI reply and message coach for people who need the right chat response fast.
+  It helps you decode texting context, generate copy-ready replies, and choose the best tone
+  for dating, workplace, family, and awkward social conversations across WeChat, WhatsApp,
+  iMessage, and Telegram. 聊天回复、消息代回、高情商沟通、职场与恋爱话术。
 metadata:
   openclaw:
     emoji: "💕🔥"
